@@ -1,0 +1,74 @@
+[33mcommit 857109c823a62efa8ed4e8f96e5e6c3d8b381bfb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: andy huang <ahuang@inter-state.com>
+Date:   Sun Jul 6 19:36:37 2025 -0400
+
+    Add security
+
+[33mcommit f485fa33245950674ab8073c999745cc88a8d504[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: andy huang <ahuang@inter-state.com>
+Date:   Sun Jul 6 14:38:49 2025 -0400
+
+    add booking API
+
+[33mcommit 985800c25e691f243b9f8dec20fb5eb25f0a257b[m
+Author: andy huang <ahuang@inter-state.com>
+Date:   Fri Jul 4 20:53:44 2025 -0400
+
+    setup rest_framework
+
+[33mcommit bdfda1a9b135ab7ad7647e4cf87734bbb2fd9242[m
+Author: andy huang <ahuang@inter-state.com>
+Date:   Fri Jul 4 20:52:35 2025 -0400
+
+    install djangorestframework
+
+[33mcommit 12f75e130c7e5d7dde07f4d26a9501d3b9064aad[m
+Author: andy huang <ahuang@inter-state.com>
+Date:   Fri Jul 4 19:20:44 2025 -0400
+
+    add Booking and Menu models
+
+[33mcommit 00615a2b020b04d584e175b507d0b8849e569672[m
+Author: andy huang <ahuang@inter-state.com>
+Date:   Fri Jul 4 18:06:17 2025 -0400
+
+    setup mysqlclient
+
+[33mcommit b1d49758ca17de87ed6e6abe02a97a04a83b8d04[m
+Author: andy huang <ahuang@inter-state.com>
+Date:   Fri Jul 4 15:02:10 2025 -0400
+
+    static files setup
+
+[33mcommit 08a617d0c35fe77ba6c2d9e127ab19cb777f1251[m
+Merge: f4b6e42 c758e85
+Author: AndyHuang214 <andy_grace_huang@hotmail.com>
+Date:   Fri Jul 4 12:45:24 2025 -0400
+
+    Merge pull request #1 from AndyHuang214/development
+    
+    add restaurant app
+
+[33mcommit c758e8509605d7d0ef691916f60d835c96a5cb99[m[33m ([m[1;31morigin/development[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: andy huang <ahuang@inter-state.com>
+Date:   Fri Jul 4 12:05:41 2025 -0400
+
+    add restaurant app
+
+[33mcommit f4b6e42d5cda70a2a81cedd346f4ada9d025fe51[m
+Author: AndyHuang214 <andy_grace_huang@hotmail.com>
+Date:   Fri Jul 4 11:25:17 2025 -0400
+
+    Update on the server
+
+[33mcommit 2f8ae855991030438f29baee940279f2d6cd894c[m
+Author: andy huang <ahuang@inter-state.com>
+Date:   Fri Jul 4 11:21:24 2025 -0400
+
+    first commit
+
+[33mcommit 7c34114f470a99d4d53e76d5a37a2fcc13561a82[m
+Author: AndyHuang214 <andy_grace_huang@hotmail.com>
+Date:   Fri Jul 4 11:12:02 2025 -0400
+
+    Initial commit
