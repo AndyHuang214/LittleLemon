@@ -1,3 +1,9 @@
+Create your own virtual environment and install dependencies from requirements.txt
+> python -m venv venv
+> source venv/bin/activate  # or venv\Scripts\activate on Windows
+> pip install -r requirements.txt
+
+
 /restaurant/                                                          # display static index.html
 
 http://127.0.0.1:8000/restaurant/booking/tables/                      # Booking API. It's best using web browser to take advantage Browserable API interface
