@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 Scripts/
 pyvenv.cfg
+venv/
+Lib/
+Lib/site-packages/
