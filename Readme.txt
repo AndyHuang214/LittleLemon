@@ -3,6 +3,9 @@ Create your own virtual environment and install dependencies from requirements.t
 > source venv/bin/activate  # or venv\Scripts\activate on Windows
 > pip install -r requirements.txt
 
+*** remember to create LittleLemon database in MySql
+*** remember to create a superuser in littlelemon project
+
 
 http://127.0.0.1:8000/restaurant/                                     # display static index.html
 
