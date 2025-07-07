@@ -4,7 +4,7 @@ Create your own virtual environment and install dependencies from requirements.t
 > pip install -r requirements.txt
 
 
-/restaurant/                                                          # display static index.html
+http://127.0.0.1:8000/restaurant/                                     # display static index.html
 
 http://127.0.0.1:8000/restaurant/booking/tables/                      # Booking API. It's best using web browser to take advantage Browserable API interface
 http://127.0.0.1:8000/restaurant/booking/tables/1/
